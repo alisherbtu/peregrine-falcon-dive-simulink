@@ -51,3 +51,24 @@ The models are not presented as an entirely original simulation; this repository
 ## Certificate
 
 I completed **100% of the Simulink Onramp** self-paced training course from MathWorks in September 2026.
+## Simulation Results
+
+### Part 1 — Dive Simulation
+
+#### Simulink Model
+
+![Part 1 Simulink Model](Simulink%20of%20Part%201.png)
+
+#### Velocity Response
+
+![Part 1 Velocity Response](Scope%20result%20for%201.png)
+
+### Part 2 — Near-Surface Flight
+
+#### Simulink Model
+
+![Part 2 Simulink Model](Simulink%20of%20Part%202.png)
+
+#### Simulation Results
+
+![Part 2 Simulation Results](Scope%20Result%20for%202.png)
